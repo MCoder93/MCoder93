@@ -66,6 +66,12 @@ como base para futuras emjoras, adaptaciones o personalizaciones, siempre con un
 
 <br>
 </p>
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=MCoder93&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/MCoder93)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=MCoder93&theme=material-palenight)](https://github.com/MCoder93)
+</div>
 ------
 
 Last Edited on: 03/11/2025
