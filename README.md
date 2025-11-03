@@ -31,6 +31,11 @@ como base para futuras emjoras, adaptaciones o personalizaciones, siempre con un
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </span>
 
+<h4> Style Language </h4>
+<span>
+  
+</span>
+
 <h4> Frameworks </h4>
 <span>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -43,6 +48,7 @@ como base para futuras emjoras, adaptaciones o personalizaciones, siempre con un
 
 <h4> IDE </h4>
 <span>
+<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 
