@@ -44,6 +44,7 @@ como base para futuras emjoras, adaptaciones o personalizaciones, siempre con un
 <h4> Frameworks </h4>
 <span>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white">
 </span>
 
 <h4> Databases </h4>
