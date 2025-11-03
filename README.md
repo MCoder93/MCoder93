@@ -60,7 +60,7 @@ como base para futuras emjoras, adaptaciones o personalizaciones, siempre con un
 
 <hr>
 <p align="center">
-   <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
+   <i>Nothing is impossible for those who fight; the only limitation in your life is yourself.</i>
    <br>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/marcos-soto-72b259362/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
