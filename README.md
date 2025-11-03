@@ -49,7 +49,7 @@ como base para futuras emjoras, adaptaciones o personalizaciones, siempre con un
 
 <h4> Development Environments </h4>
 <span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
 </span>
 
 <h4> Databases </h4>
