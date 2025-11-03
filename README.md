@@ -33,7 +33,7 @@ como base para futuras emjoras, adaptaciones o personalizaciones, siempre con un
 
 <h4> Style Language </h4>
 <span>
-  
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> 
 </span>
 
 <h4> Frameworks </h4>
