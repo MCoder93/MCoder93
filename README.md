@@ -9,7 +9,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me 🐺***
 
 ¡Hola Mundo! 
-Me llamo Marcos, soy analista programador (titulado) con formación en ingeniería en informática (pendiente de titulación). Tengo conocimientos en lenguajes de programación, tales como:
+Me llamo Marcos, soy analista programador (titulado) con formación en ingeniería en informática (pendiente de titulación). Tengo conocimientos en lenguajes de programación, como:
 Java, JavaScript, PHP y Python. Me apasiona aprender constantemente y desarrollar proyectos que no solo sean funcionales y productivos, sino también innovadores. Busco crear soluciones que sirvan
 como base para futuras emjoras, adaptaciones o personalizaciones, siempre con una mirada hacia la evolución tecnológica y la experiencia del usuario.
 * **I am interested in Software development**
