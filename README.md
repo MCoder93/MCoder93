@@ -16,6 +16,7 @@
 - Outside tech, 📖 I love to read, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href=" m.soto.zapata@outlook.com"> m.soto.zapata@outlook.com</a>
 
+
 ## My Skills Include
 
 <h4> Languages </h4>
@@ -76,7 +77,6 @@
 
 
 
-
 <hr>
 <p align="center">
    <i>Nothing is impossible for those who fight; the only limitation in your life is yourself.</i>
@@ -84,9 +84,9 @@
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/marcos-soto-72b259362/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="https://discord.com/users/1412232113209606174"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></img></a>
-
 <br>
 </p>
+
 
 <h2>Github stats:</h2> 
 
