@@ -74,15 +74,11 @@ como base para futuras emjoras, adaptaciones o personalizaciones, siempre con un
 
 <h4> Other Tools and Technologies </h4>
 <span>
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="">
-
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">.
 </span>
 
 
 
-
-    
 
 <hr>
 <p align="center">
