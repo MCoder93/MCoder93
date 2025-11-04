@@ -87,13 +87,17 @@
 </p>
 
 
-<h2>Github stats:</h2> 
+----
 
-[![](https://github-readme-stats.vercel.app/api?username=MCoder93&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/MCoder93)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=MCoder93&theme=material-palenight)](https://github.com/MCoder93)
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
 </div>
+
 ------
 
 By: MBusterCodeWolf-DevOps93
 
-Last Edited on: 03/11/2025
+Last Edited on: 04/11/2025
