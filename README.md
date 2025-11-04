@@ -8,7 +8,7 @@
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ¡Hello World! My name is Marcos, and I'm a certified programmer analyst with a background in computer engineering (degree pending). I have experience in programming languages ​​such as Java, JavaScript, PHP, and Python. I'm passionate about continuous learning and developing projects that are not only functional and productive but also innovative. I aim to create solutions that serve as a foundation for future improvements, adaptations, or customizations, always with an eye toward technological evolution and user experience.
-* **I am interested in Software development**
+* **I am interested in Software development, machine learning and data analyst**
 - 🌱 I’m currently learning ...
   - Python
   - React 
