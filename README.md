@@ -7,7 +7,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me 🐺***
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-¡Hello World! My name is Marcos, and I'm a certified programmer analyst with a background in computer engineering (degree pending). I have experience in programming languages ​​such as Java, JavaScript, PHP, and Python. I'm passionate about continuous learning and developing projects that are not only functional and productive but also innovative. I aim to create solutions that serve as a foundation for future improvements, adaptations, or customizations, always with an eye toward technological evolution and user experience.
+Hello World! My name is Marcos. I am a certified programming analyst with academic training in computer engineering (degree pending). I have experience with programming languages such as PHP and Python. Additionally, I possess knowledge in other languages including Java, JavaScript, C++, and C#. I am passionate about continuous learning and developing projects that are not only functional and productive but also innovative. My goal is to create solutions that serve as a foundation for future improvements, adaptations, or customizations—always with a focus on technological evolution and user experience.
 * **I am interested in Software development, machine learning and data analyst**
 - 🌱 I’m currently learning ...
   - Python
