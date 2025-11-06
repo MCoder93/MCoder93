@@ -79,7 +79,7 @@ Hello World! My name is Marcos. I am a certified programming analyst with academ
 
 <hr>
 <p align="center">
-   <i>Nothing is impossible for those who fight; the only limitation in your life is yourself.</i>
+   <i>Nothing is impossible for those who fight; the only limit in your life is yourself.</i>
    <br>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/marcos-soto-72b259362/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
