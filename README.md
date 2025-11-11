@@ -20,7 +20,7 @@ Hello World! My name is Marcos. I am a certified programming analyst with academ
 - 📫 Reach out to me at: <a href=" m.soto.zapata@outlook.com"> m.soto.zapata@outlook.com</a>
 
 
-## My Skills Include <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+## My Skills Include <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 <h4> Languages </h4>
 <span> 
