@@ -99,7 +99,7 @@ Hello World! My name is Marcos. I am a certified programming analyst with academ
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=MCoder93&theme=material-palenight)](https://github.com/MCoder93)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
 </div>
 
 ------
