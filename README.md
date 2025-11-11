@@ -97,7 +97,7 @@ Hello World! My name is Marcos. I am a certified programming analyst with academ
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MCoder93&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/><br>
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=MCoder93&theme=material-palenight)](https://github.com/MCoder93)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=MCoder93&theme=material-palenight&theme=dark)](https://github.com/MCoder93)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
 </div>
