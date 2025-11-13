@@ -100,7 +100,6 @@ Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/Shahr
 <br>
 
 <div align="center">
-  
 ![MCoder93 GitHub stats](https://github-readme-stats.vercel.app/api?username=MCoder93&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCoder93&layout=compact&theme=dark)
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=MCoder93&theme=material-palenight&theme=dark)](https://github.com/MCoder93)
