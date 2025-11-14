@@ -98,7 +98,7 @@ Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/Shahr
 ----
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Github Stats</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Github stats</b>
 <br>
 
 <div align="center">
