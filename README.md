@@ -83,7 +83,7 @@ Hello World! My name is Marcos. I am a certified programming analyst with academ
 
 <h4> Preferred Study Platform </h4>
 <span>
-  <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">.
+  <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">
 </span>
 
 
