@@ -34,12 +34,12 @@ Hello World! My name is Marcos. I am a certified programming analyst with academ
 
 <h4> Web Modeling Structure </h4>
 <span>
-<img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> 
 </span>
 
 <h4> Style Language </h4>
 <span>
-<img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> 
 </span>
 
 <h4> Frameworks </h4>
