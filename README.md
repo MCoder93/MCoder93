@@ -2,6 +2,8 @@
 
 ![Header](https://github.com/MCoder93/My-Profile/blob/main/My%20Profile/github-header-banner.png)
 
+<a href="https://www.contadorvisitasgratis.com" title="contador de visitas gratis"><img src="https://counter1.optistats.ovh/private/contadorvisitasgratis.php?c=8mc1w7hjc8p7kwubdbendkuj61gk323c" border="0" title="contador de visitas gratis" alt="contador de visitas gratis"></a>
+
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/marcos-soto-72b259362/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="https://discord.com/users/1412232113209606174"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></img></a>
