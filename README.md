@@ -14,7 +14,8 @@ Hello World! My name is Marcos. I am a certified programming analyst with academ
 * **I am interested in Software development, machine learning and data analyst**
 - 🌱 I’m currently learning ...
   - Python
-  - React 
+  - React
+  - PostgreSQL
 - 👯 I’m looking forward to collaborate on open source projects.
 - Outside tech, 📖 I love to read, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href=" m.soto.zapata@outlook.com"> m.soto.zapata@outlook.com</a>
