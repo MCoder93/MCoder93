@@ -130,6 +130,7 @@ Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/Shah
 ------
 
 <h2 align="center" style="margin: 10px;">Github Tropies</h2>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" /></p>
 <img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
