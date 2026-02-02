@@ -18,7 +18,7 @@ Hello World! My name is Marcos. I am a certified programming analyst with academ
   - React
   - PostgreSQL
 - 👯 I’m looking forward to collaborate on open source projects.
-- Outside tech, 📖 I love to read, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
+- Outside tech, 📖 I love to read, 🖌️ do painting and skecthing, 🎵 listen to music, 🏋️‍♂️ exercise, 🚴 biking, ✈ travel and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href=" m.soto.zapata@outlook.com"> m.soto.zapata@outlook.com</a>
 
 
