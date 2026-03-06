@@ -144,7 +144,8 @@ Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/Shah
 
 <br>
 
-![Header](https://github.com/MCoder93/My-Profile/blob/main/My%20Profile/your-header-image-roshi.png)
+<!--- banner master roshi -->
+![Header](https://github.com/MCoder93/MCoder93/blob/main/My%20Profile/your-header-image-roshi.png)
 
 ------
 
