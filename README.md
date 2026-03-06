@@ -113,6 +113,7 @@ Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/Shah
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Github Stats</b>
 <br>
+<div align="center"></div>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
