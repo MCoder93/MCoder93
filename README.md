@@ -104,8 +104,8 @@ Hello World! My name is Marcos. I am a certified programming analyst with academ
    <br>
 Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/marcos-soto-72b259362/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="https://discord.com/users/1412232113209606174"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/marcos-soto-72b259362/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a> 
+<a href="https://discord.com/users/1412232113209606174" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 <br>
 </p>
 
