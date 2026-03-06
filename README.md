@@ -1,6 +1,6 @@
 <picture><img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <h1 align="center"> Hi, Welcome to my GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-![Header](https://github.com/MCoder93/My-Profile/blob/main/My%20Profile/github-header-banner.png)
+![Header](https://github.com/MCoder93/MCoder93/blob/main/My%20Profile/Banner-Github.png)
 
 [comment]: <> (View Counter)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MCoder93&label=Visits&color=08A0DA&style=flat" alt="MCoder93s" /></p>
