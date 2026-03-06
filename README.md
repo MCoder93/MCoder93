@@ -114,7 +114,7 @@ Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/Shah
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Github Stats</b>
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 <br>
 </div>
 
