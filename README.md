@@ -110,10 +110,11 @@ Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/Shah
 
 ----
 
-<div align="center"></div>
+<div align="center">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Github Stats</b>
 <br>
+</div>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
