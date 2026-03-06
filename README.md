@@ -112,7 +112,7 @@ Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/Shah
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Github Stats</b>
+##<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Github Stats</b>
 <br>
 </div>
 
@@ -123,7 +123,7 @@ Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/Shah
 <tr border="none">
 <td width="50%" align="center">
   
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MCoder93&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MCoder93&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MCoder93&theme=dark&hide_border=false" /> 
 </td>
