@@ -107,7 +107,7 @@ Hello World! My name is Marcos. I am a certified programming analyst with academ
    <br>
    Connect with me: 
    <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px">
-   <br><br>
+   <br>
    <span style="display:inline-block; margin:0 10px;">
       <a href="https://www.linkedin.com/in/marcos-soto-72b259362/" target="_blank">
          <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="40" width="40">
