@@ -105,10 +105,15 @@ Hello World! My name is Marcos. I am a certified programming analyst with academ
 <p align="center">
    <i>Nothing is impossible for those who fight; the only limit in your life is yourself.</i>
    <br>
-Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
-<br>	
-<a href="https://www.linkedin.com/in/marcos-soto-72b259362/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="40" width="40"></a> 
-<a href="https://discord.com/users/1412232113209606174" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="40" width="40"></a>
+   Connect with me: 
+   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px">
+   <br><br>
+   <a href="https://www.linkedin.com/in/marcos-soto-72b259362/" target="_blank">
+      <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="40" width="40">
+   </a>
+   <a href="https://discord.com/users/1412232113209606174" target="_blank">
+      <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="40" width="40">
+   </a>
 </p>
 
 
